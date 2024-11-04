@@ -167,6 +167,6 @@ webencodings==0.5.1
 websocket-client==1.8.0
 wheel==0.44.0
 widgetsnbextension==4.0.10
-wordcloud==0.0.0
+wordcloud==1.9.3
 xgboost==2.1.1
 yfinance==0.2.44
